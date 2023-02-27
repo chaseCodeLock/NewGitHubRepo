@@ -3,5 +3,3 @@ def main():
  main()
 #new developer code
 
-def printhi():
-   print("hello again")
