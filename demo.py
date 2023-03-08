@@ -1,5 +1,5 @@
 def main():
   print("New lines")
+  print("Hello world")
 
-  
-  print("attacker was here")
+main()
